@@ -14,4 +14,5 @@
     ["Ahmadu Bello University", "Bachelor of Engineering", "2018", "present"],
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
+    ["Central Board of Secondary Education","Senior SCE","2021","present"]
 ]
