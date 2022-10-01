@@ -5,6 +5,13 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+    baimamboukar_socials = {
+	"twitter_handle": "baimamjj",
+	"likedin_handle": "baimamboukar",
+	"telegram_handle": "bsquarejj",
+	"instagram": "baimamboukar"
+     },
+
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",
         "likedin_handle": "rupali-codes",
@@ -76,6 +83,12 @@ manjusha2912_socials = {
       "likedin_handle": "Manjusha Iyer",
       "facebook": "",
       "telegram_handle": "",
+  },
+dibyajittripathy_socials = {
+      "twitter_handle": "djWarrioR1997",
+      "likedin_handle": "Dibyajit Tripathy",
+      "facebook": "",
+      "telegram_handle": "Rhaegal",
   },
  burnleydev1_socials = {
       "twitter_handle": "bonalaisa",
